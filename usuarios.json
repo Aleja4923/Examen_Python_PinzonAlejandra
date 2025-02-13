@@ -1,0 +1,43 @@
+{ "Usuarios":
+        [
+            {
+                "Nombre": "Pedro",
+                "Apellido": "alo",
+                "Dirrecion": "carrera 23",
+                "Celular": "318867504",
+                "Servicios": {
+                    "Fibra Optica": true,      
+                    "Planes Pospago": false,
+                    "Planes Prepago": true,
+                    "Servicios extras": true
+                }
+                
+            },
+            {
+                "Nombre": "Calo",
+                "Apellido": "ernesto",
+                "Dirrecion": "carrera 23",
+                "Celular": "332867504",
+                "Servicios": {
+                    "Fibra Optica": false,      
+                    "Planes Pospago": false,
+                    "Planes Prepago": false,
+                    "Servicios extras": true
+                }
+                
+            },            
+            {
+                "Nombre": "Palo",
+                "Apellido": "Anton",
+                "Dirrecion": "carrera 23",
+                "Celular": "312367504",
+                "Servicios": {
+                    "Fibra Optica": false,      
+                    "Planes Pospago": true,
+                    "Planes Prepago": true,
+                    "Servicios extras": true
+                }
+                
+            }   
+        ]
+}
